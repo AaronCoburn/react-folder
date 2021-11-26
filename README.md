@@ -1,7 +1,7 @@
-### My Experiemtnal React project
+### My Experimental React project
 
-This is a repo where put an initail React experiement because I want to learn React. 
-Since currently learning react I am using this is repo to practice. 
+This is my repository where I put an initial React experiment because I want to learn React. 
+Since currently learning React I am using this repository to practice. 
 
 <!-- ithub.io/create-react-app/docs/analyzing-the-bundle-size)
 
