@@ -1,6 +1,7 @@
 ### My Experiemtnal React project
-This is a repo where put an initail React experiement because I want to learn React. 
 
+This is a repo where put an initail React experiement because I want to learn React. 
+Since currently learning react I am using this is repo to practice. 
 
 <!-- ithub.io/create-react-app/docs/analyzing-the-bundle-size)
 
