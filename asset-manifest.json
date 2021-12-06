@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/http//AaronCoburn.github.io/react-folder/static/css/main.0d2c9fc8.chunk.css",
+    "main.js": "/http//AaronCoburn.github.io/react-folder/static/js/main.f4fb75a4.chunk.js",
+    "main.js.map": "/http//AaronCoburn.github.io/react-folder/static/js/main.f4fb75a4.chunk.js.map",
+    "runtime-main.js": "/http//AaronCoburn.github.io/react-folder/static/js/runtime-main.d790fb4f.js",
+    "runtime-main.js.map": "/http//AaronCoburn.github.io/react-folder/static/js/runtime-main.d790fb4f.js.map",
+    "static/js/2.e88db76d.chunk.js": "/http//AaronCoburn.github.io/react-folder/static/js/2.e88db76d.chunk.js",
+    "static/js/2.e88db76d.chunk.js.map": "/http//AaronCoburn.github.io/react-folder/static/js/2.e88db76d.chunk.js.map",
+    "static/js/3.20f0ba06.chunk.js": "/http//AaronCoburn.github.io/react-folder/static/js/3.20f0ba06.chunk.js",
+    "static/js/3.20f0ba06.chunk.js.map": "/http//AaronCoburn.github.io/react-folder/static/js/3.20f0ba06.chunk.js.map",
+    "index.html": "/http//AaronCoburn.github.io/react-folder/index.html",
+    "precache-manifest.99ff28e3a9b85af7a038a8a45fc974ae.js": "/http//AaronCoburn.github.io/react-folder/precache-manifest.99ff28e3a9b85af7a038a8a45fc974ae.js",
+    "service-worker.js": "/http//AaronCoburn.github.io/react-folder/service-worker.js",
+    "static/css/main.0d2c9fc8.chunk.css.map": "/http//AaronCoburn.github.io/react-folder/static/css/main.0d2c9fc8.chunk.css.map",
+    "static/js/2.e88db76d.chunk.js.LICENSE.txt": "/http//AaronCoburn.github.io/react-folder/static/js/2.e88db76d.chunk.js.LICENSE.txt",
+    "static/media/CodingBrain.jpg": "/http//AaronCoburn.github.io/react-folder/static/media/CodingBrain.16ddd025.jpg",
+    "static/media/logo.svg": "/http//AaronCoburn.github.io/react-folder/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d790fb4f.js",
+    "static/js/2.e88db76d.chunk.js",
+    "static/css/main.0d2c9fc8.chunk.css",
+    "static/js/main.f4fb75a4.chunk.js"
+  ]
+}
